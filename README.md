@@ -2,6 +2,9 @@
 
 This repository contains the code for the research article titled "Enhancing NTMA with Simultaneous Multi-QoS Parameter Prediction using Transformer-Based Deep Learning". The project leverages a customized Transformer-based model to enable simultaneous prediction of multiple key Quality of Service (QoS) parameters, improving proactive network management and optimizing network resource allocation.
 
+The article is accessible via the DOI: 10.1109/IST64061.2024.10843472 and can be found online at the following address: [https://ieeexplore.ieee.org/abstract/document/10843472](https://ieeexplore.ieee.org/abstract/document/10843472).
+
+
 # Model Architecture 
 ![1- Network AI_short_enable drawio](https://github.com/user-attachments/assets/629865ec-557e-40fc-a209-5727fd32f034)
 
